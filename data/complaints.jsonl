@@ -1,0 +1,20 @@
+{"id": "C-001", "channel": "email", "text": "I was charged twice for the same grocery bill on my debit card. Please refund the extra amount. Account EB-4418203391."}
+{"id": "C-002", "channel": "chat", "text": "There are two transactions on my credit card that I did not make, both at 2 am. Please block the card. Account EB-7720019384."}
+{"id": "C-003", "channel": "chat", "text": "My mobile banking app is locked after three wrong password attempts. I cannot log in."}
+{"id": "C-004", "channel": "email", "text": "Why was a minimum balance penalty fee deducted this month? I kept the balance above the limit. Account EB-1029384756."}
+{"id": "C-005", "channel": "phone", "text": "Someone called pretending to be from the bank and asked for my OTP. I think it is a scam and money has gone. Account EB-5566778899."}
+{"id": "C-006", "channel": "chat", "text": "Maine yeh transaction nahi kiya, please check. 4999 rupees ka debit hua hai. Account EB-3141592653."}
+{"id": "C-007", "channel": "email", "text": "The merchant cancelled my order but the refund never came back to my card. It has been 15 days."}
+{"id": "C-008", "channel": "branch", "text": "I want to update the address on my account. The branch asked me to raise a request online."}
+{"id": "C-009", "channel": "chat", "text": "ATM se paise nahi nikle par account se paise kat gaye. Please refund. Account EB-2718281828."}
+{"id": "C-010", "channel": "email", "text": "Annual card fee charged even though I was told the card is lifetime free."}
+{"id": "C-011", "channel": "chat", "text": "Login OTP is not arriving on my phone, so I cannot access net banking."}
+{"id": "C-012", "channel": "phone", "text": "I see a dispute raised on my card that I never raised. Who raised it?"}
+{"id": "C-013", "channel": "chat", "text": "Unauthorised UPI debit of 25000 rupees from my account last night. Account EB-9081726354."}
+{"id": "C-014", "channel": "email", "text": "Late payment charges were added although I paid before the due date."}
+{"id": "C-015", "channel": "chat", "text": "My card was swiped at a restaurant twice and I want to dispute the second charge."}
+{"id": "C-016", "channel": "email", "text": "Thank you for the quick help at the branch last week."}
+{"id": "C-017", "channel": "chat", "text": "App crash ho raha hai login ke baad, kuch bhi open nahi hota."}
+{"id": "C-018", "channel": "phone", "text": "A fraud alert SMS came for a card transaction I did make. Please unblock the card."}
+{"id": "C-019", "channel": "email", "text": "Cheque book request is pending for two weeks."}
+{"id": "C-020", "channel": "chat", "text": "Received a link saying my account will be blocked unless I update KYC. Is this from the bank?"}
